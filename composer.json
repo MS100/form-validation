@@ -1,0 +1,19 @@
+{
+  "name": "ms100/form-validation",
+  "description": " a perfect form validation library, The style is similar to CI",
+  "authors": [
+    {
+      "name": "Mengshuai"
+    }
+  ],
+  "license": "MIT",
+  "require": {
+    "php": "^7.4",
+    "illuminate/translation": "^6.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Ms100\\FormValidation\\": "src/"
+    }
+  }
+}
