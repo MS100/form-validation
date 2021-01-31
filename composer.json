@@ -1,9 +1,13 @@
 {
   "name": "ms100/form-validation",
+  "type": "library",
   "description": " a perfect form validation library, The style is similar to CI",
+  "keywords": ["form","validation"],
+  "homepage": "https://github.com/MS100/form-validation",
   "authors": [
     {
-      "name": "Mengshuai"
+      "name": "Mengshuai",
+      "email": "ms1.0@qq.com"
     }
   ],
   "license": "MIT",
